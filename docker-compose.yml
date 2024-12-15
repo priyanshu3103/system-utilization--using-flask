@@ -1,6 +1,5 @@
 services:
   web:
-    build:
-      image: "priyanshu1979/systemutil:01"
+    image: "priyanshu1979/systemutil:01"
     ports:
       - "5001:5000"
