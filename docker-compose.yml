@@ -1,5 +1,5 @@
 services:
   web:
-    image: "priyanshu1979/systemutil:01"
+    image: "priyanshu1979/systemutil:02"
     ports:
       - "5001:5001"
